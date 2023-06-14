@@ -6,5 +6,9 @@ public class Free_Demo
 	{
 		System.out.println("I am a Tester");
 	}
+	public void a1()
+	{
+		System.out.println("I am a Tester");
+	}
 
 }
